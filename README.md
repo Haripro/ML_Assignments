@@ -1,2 +1,2 @@
 # ML_Assignments
-ML_Excercises
+ML_Exercises
